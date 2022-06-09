@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(127, 34, 79);
+  /*дальше scss синтаксис*/
+}
+body span {
+  color: rgb(224, 28, 28);
+}
